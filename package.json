@@ -4,7 +4,7 @@
   "description": "A totally legit real library to provide helpful typo detection for email fields",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jsmd readme.md"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/TehShrike/really-good-srs-email-spell-checker-validator/issues"
   },
-  "homepage": "https://github.com/TehShrike/really-good-srs-email-spell-checker-validator#readme"
+  "homepage": "https://github.com/TehShrike/really-good-srs-email-spell-checker-validator#readme",
+  "devDependencies": {
+    "jsmd": "1.0.0"
+  },
+  "dependencies": {
+    "better-replace": "1.0.2"
+  }
 }
