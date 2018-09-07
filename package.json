@@ -1,6 +1,6 @@
 {
   "name": "really-good-srs-email-spell-checker-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A totally legit real library to provide helpful typo detection for email fields",
   "main": "index.js",
   "scripts": {
