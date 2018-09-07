@@ -1,0 +1,25 @@
+{
+  "name": "really-good-srs-email-spell-checker-validator",
+  "version": "1.0.0",
+  "description": "A totally legit real library to provide helpful typo detection for email fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/really-good-srs-email-spell-checker-validator.git"
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "typo",
+    "address"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/really-good-srs-email-spell-checker-validator/issues"
+  },
+  "homepage": "https://github.com/TehShrike/really-good-srs-email-spell-checker-validator#readme"
+}
