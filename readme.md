@@ -1,6 +1,6 @@
 A totally legit real library to provide helpful typo detection for email fields.
 
-**[Try it out!](https://svelte.technology/repl?version=2.13.4&gist=a0616612238b81f381c0a3eb1e0c53d5)**
+**[Try it out!](https://svelte.dev/repl/f949b74149f849ba94263556c45ad2aa?version=3.42.4)**
 
 # Install
 
